@@ -7,7 +7,7 @@ const Dashboard = () => {
       <div className="flex  items-center space-x-8 mb-4 ml-11">
         <img
           src="/longsor-ilustrasi.png"
-          alt="ilustrasi2"
+          alt="ilustrasi"
           className="max-w-screen-sm h-auto"
         />
         <div className="text-gray-700">

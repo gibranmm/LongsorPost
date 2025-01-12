@@ -6,7 +6,7 @@ const Dashboard = () => {
     <div className="p-4 bg-white flex-grow rounded-lg shadow-lg">
       <div className="flex  items-center space-x-8 mb-4 ml-11">
         <img
-          src="public/longsor-ilustrasi.png"
+          src="/longsor-ilustrasi.png"
           alt="ilustrasi2"
           className="max-w-screen-sm h-auto"
         />
